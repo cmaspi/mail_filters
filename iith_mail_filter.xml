@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
 	<title>Mail Filters</title>
-	<id>tag:mail.google.com,2008:filters:z0000001619118132166*7909238918225235156,z0000001619159057524*4664051000756940796,z0000001619159110782*1568806166500523997,z0000001619159153674*3389271408914007229,z0000001619159180316*0272835095389625461,z0000001619159248825*2770188372156488601,z0000001619159378896*1719182709265664993,z0000001619159690576*3906913210107161347,z0000001619159781327*5829187493550431968,z0000001619159815054*7847029602988206145,z0000001619159924776*6033641320912003392</id>
-	<updated>2021-04-23T06:44:32Z</updated>
+	<id>tag:mail.google.com,2008:filters:z0000001619118132166*7909238918225235156,z0000001619159057524*4664051000756940796,z0000001619159110782*1568806166500523997,z0000001619159153674*3389271408914007229,z0000001619159180316*0272835095389625461,z0000001619159248825*2770188372156488601,z0000001619159378896*1719182709265664993,z0000001619159690576*3906913210107161347,z0000001619159781327*5829187493550431968,z0000001619159815054*7847029602988206145,z0000001619159924776*6033641320912003392,z0000001619161028519*5765983056307833124,z0000001619161187829*0766886836956643420,z0000001619161231226*4524616940619709290,z0000001619161259402*8169949621566722580,z0000001619161371438*7181209532364703728,z0000001619161530015*3544096585583488327,z0000001619161606989*3997810358052129429,z0000001619161671691*4133308912646587107,z0000001619161851717*4947608414828270013,z0000001619161892724*5564402950674005329,z0000001619162014366*7448995984469018145,z0000001619162111250*7913365975992877856</id>
+	<updated>2021-04-23T08:10:38Z</updated>
 	<author>
 		<name>CHIRAG MEHTA</name>
 		<email>ai20btech11006@iith.ac.in</email>
@@ -11,10 +11,12 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001619118132166*7909238918225235156</id>
-		<updated>2021-04-23T06:44:32Z</updated>
+		<updated>2021-04-23T08:10:38Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='list:(&lt;seminar.phy.iith.ac.in&gt;)'/>
 		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -22,10 +24,12 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001619159057524*4664051000756940796</id>
-		<updated>2021-04-23T06:44:32Z</updated>
+		<updated>2021-04-23T08:10:38Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='industry lecture'/>
 		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -33,10 +37,12 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001619159110782*1568806166500523997</id>
-		<updated>2021-04-23T06:44:32Z</updated>
+		<updated>2021-04-23T08:10:38Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='open colloquium'/>
 		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -44,10 +50,12 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001619159153674*3389271408914007229</id>
-		<updated>2021-04-23T06:44:32Z</updated>
+		<updated>2021-04-23T08:10:38Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='newsletter'/>
 		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -55,10 +63,12 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001619159180316*0272835095389625461</id>
-		<updated>2021-04-23T06:44:32Z</updated>
+		<updated>2021-04-23T08:10:38Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='sunshine weekend'/>
 		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -66,10 +76,12 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001619159248825*2770188372156488601</id>
-		<updated>2021-04-23T06:44:32Z</updated>
+		<updated>2021-04-23T08:10:38Z</updated>
 		<content></content>
 		<apps:property name='subject' value='new joining'/>
 		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -77,10 +89,12 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001619159378896*1719182709265664993</id>
-		<updated>2021-04-23T06:44:32Z</updated>
+		<updated>2021-04-23T08:10:38Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='weekly seminar'/>
 		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -88,10 +102,12 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001619159690576*3906913210107161347</id>
-		<updated>2021-04-23T06:44:32Z</updated>
+		<updated>2021-04-23T08:10:38Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='thesis defence'/>
 		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -99,10 +115,12 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001619159781327*5829187493550431968</id>
-		<updated>2021-04-23T06:44:32Z</updated>
+		<updated>2021-04-23T08:10:38Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='activity digest'/>
 		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -110,10 +128,12 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001619159815054*7847029602988206145</id>
-		<updated>2021-04-23T06:44:32Z</updated>
+		<updated>2021-04-23T08:10:38Z</updated>
 		<content></content>
 		<apps:property name='subject' value='seminar'/>
 		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -121,10 +141,168 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001619159924776*6033641320912003392</id>
-		<updated>2021-04-23T06:44:32Z</updated>
+		<updated>2021-04-23T08:10:38Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='literary society'/>
 		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619161028519*5765983056307833124</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='tedX'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619161187829*0766886836956643420</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='advisory on covid'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619161231226*4524616940619709290</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='webinar'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619161259402*8169949621566722580</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='seminar series'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619161371438*7181209532364703728</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='call for papers'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619161530015*3544096585583488327</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='ee18resch11001@iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619161606989*3997810358052129429</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='recent canvas notification'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619161671691*4133308912646587107</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='subject' value='proposal defense'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619161851717*4947608414828270013</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='subject' value='industry lecture'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619161892724*5564402950674005329</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='subject' value='open colloquium'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619162014366*7448995984469018145</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='subject' value='research scholar'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619162111250*7913365975992877856</id>
+		<updated>2021-04-23T08:10:38Z</updated>
+		<content></content>
+		<apps:property name='subject' value='advisory of covid'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
