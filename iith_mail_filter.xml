@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001619118132166*7909238918225235156,z0000001619159057524*4664051000756940796,z0000001619159110782*1568806166500523997,z0000001619159153674*3389271408914007229,z0000001619159180316*0272835095389625461,z0000001619159248825*2770188372156488601,z0000001619159378896*1719182709265664993,z0000001619159690576*3906913210107161347,z0000001619159781327*5829187493550431968,z0000001619159815054*7847029602988206145,z0000001619159924776*6033641320912003392</id>
+	<updated>2021-04-23T06:44:32Z</updated>
+	<author>
+		<name>CHIRAG MEHTA</name>
+		<email>ai20btech11006@iith.ac.in</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619118132166*7909238918225235156</id>
+		<updated>2021-04-23T06:44:32Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(&lt;seminar.phy.iith.ac.in&gt;)'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619159057524*4664051000756940796</id>
+		<updated>2021-04-23T06:44:32Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='industry lecture'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619159110782*1568806166500523997</id>
+		<updated>2021-04-23T06:44:32Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='open colloquium'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619159153674*3389271408914007229</id>
+		<updated>2021-04-23T06:44:32Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='newsletter'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619159180316*0272835095389625461</id>
+		<updated>2021-04-23T06:44:32Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='sunshine weekend'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619159248825*2770188372156488601</id>
+		<updated>2021-04-23T06:44:32Z</updated>
+		<content></content>
+		<apps:property name='subject' value='new joining'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619159378896*1719182709265664993</id>
+		<updated>2021-04-23T06:44:32Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='weekly seminar'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619159690576*3906913210107161347</id>
+		<updated>2021-04-23T06:44:32Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='thesis defence'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619159781327*5829187493550431968</id>
+		<updated>2021-04-23T06:44:32Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='activity digest'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619159815054*7847029602988206145</id>
+		<updated>2021-04-23T06:44:32Z</updated>
+		<content></content>
+		<apps:property name='subject' value='seminar'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001619159924776*6033641320912003392</id>
+		<updated>2021-04-23T06:44:32Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='literary society'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
