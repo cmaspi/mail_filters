@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001652615780310*2356814334818327512,z0000001652615803314*2256952277450225067,z0000001652615829527*2056633528217549114,z0000001652615851120*4298521585917557859,z0000001652616050617*6745014412254436363,z0000001652616065374*6613183519344518788,z0000001652616079065*1708965325360841280,z0000001652616105591*0573245216097624804,z0000001652616140745*6439173932345219289,z0000001652616208986*3290915213529738051,z0000001652616252067*6296822266076522547,z0000001652616267529*2001727340708598099,z0000001652616570753*1040449077413644186,z0000001652616712873*6933684822489292750,z0000001652616797325*5287307834512225886,z0000001652617093491*3993134965551448736,z0000001652617156200*1162348212441229642,z0000001652617220325*4258606418339208127,z0000001652617445157*3397664013309766001,z0000001652617462662*8109486308191941925</id>
+	<updated>2022-05-15T12:52:23Z</updated>
+	<author>
+		<name>CHIRAG MEHTA</name>
+		<email>ai20btech11006@iith.ac.in</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652615780310*2356814334818327512</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='fic.sunshine@iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652615803314*2256952277450225067</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='office.sunshine@campus.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652615829527*2056633528217549114</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='ug.buddy.sunshine@campus.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652615851120*4298521585917557859</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='ug.sunshine@campus.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652616050617*6745014412254436363</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='infocus@gymkhana.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652616065374*6613183519344518788</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='behindthelens@gymkhana.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652616079065*1708965325360841280</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='vibes@gymkhana.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652616105591*0573245216097624804</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='rangdemanch@gymkhana.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652616140745*6439173932345219289</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='gesture@gymkhana.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652616208986*3290915213529738051</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='lit_soc@gymkhana.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652616252067*6296822266076522547</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='glitch@gymkhana.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652616267529*2001727340708598099</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='aero@gymkhana.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652616570753*1040449077413644186</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='torque@iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652616712873*6933684822489292750</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='elektronica@gymkhana.iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652616797325*5287307834512225886</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='subject' value='cab sharing'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652617093491*3993134965551448736</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='self-defence-group@iith.ac.in'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652617156200*1162348212441229642</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='student@internshala.com'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652617220325*4258606418339208127</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='subject' value='New joining'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652617445157*3397664013309766001</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='lost id'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652617462662*8109486308191941925</id>
+		<updated>2022-05-15T12:52:23Z</updated>
+		<content></content>
+		<apps:property name='subject' value='lost'/>
+		<apps:property name='label' value='Spam_'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
